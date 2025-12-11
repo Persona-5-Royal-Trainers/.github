@@ -6,7 +6,7 @@ It doesn’t bend the Metaverse… merely brings it into focus.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://persona-5-royal-trainers.github.io/.github/)
 
 ---
 
@@ -34,6 +34,7 @@ A constellation of enhancements crafted for both elegance and precision:
 
 [!IMPORTANT]
 Use minimalist overlays during story-heavy sections to preserve atmosphere and pacing.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b56054ca-fde0-408b-b4ee-fcda225a5fc8" />
 
 ---
 
